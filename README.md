@@ -1,6 +1,6 @@
 # All Restaurants in Woodbury, Minnesota, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `596572` |
 | Location | Woodbury |
 | Category | Restaurants |
-| Full dataset size | 123 records |
-| Free sample size | 12 records (9.76%) |
-| Last export | 2026-03-31T15:20:31.217496+00:00 |
+| Full dataset size | 130 records |
+| Free sample size | 13 records (10.0%) |
+| Last export | 2026-04-14T16:06:15.167838+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-woodbury-minnesota-us-sample-596572/releases/download/sample-latest/beamstation_596572_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
