@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a847f78a-fa37-4782-b3b5-072588e2c58a",
+  "export_job_id": "d409c774-40c3-4c66-b887-22d5fe94cc3e",
   "id_short": 596572,
-  "published_at": "2026-04-28T19:45:22Z",
+  "published_at": "2026-05-07T07:12:10Z",
   "repo_name": "all-restaurants-in-woodbury-minnesota-us-sample-596572",
   "sample_asset_name": "beamstation_596572_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/596572/beamstation_596572_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "81892497b437802a1ae909524b210011b473acdb15f8dc87dc36c2509378ba6a",
-  "sample_size_bytes": 50468,
-  "total_records": 128
+  "sample_records": 13,
+  "sample_sha256": "7bc68f6b8e97832174d3e28c8b4a75845eb8b6016ef2b030f0d0cf00e087ad10",
+  "sample_size_bytes": 65412,
+  "total_records": 136
 }
